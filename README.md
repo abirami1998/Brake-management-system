@@ -44,20 +44,28 @@ The combined effect of these forces is provided to the 6 degrees of freedom bloc
 
 
 Simulink Model:
+![image](https://user-images.githubusercontent.com/59002417/110895225-53516480-831f-11eb-8d74-2fb6633a5af1.png)
 
  
 
 
 
 Subsystem:
- 
+ ![image](https://user-images.githubusercontent.com/59002417/110895196-47fe3900-831f-11eb-8470-f8eb7dcae4eb.png)
+
 Hydraulic Subsystem:
+![image](https://user-images.githubusercontent.com/59002417/110895255-6106ea00-831f-11eb-8567-e3804f2522af.png)
+
  
 Wheel Subsystem:
+![image](https://user-images.githubusercontent.com/59002417/110895269-695f2500-831f-11eb-8bdd-07dcdf38869b.png)
+
  
 
 Output plots:
 mu-slip curve:
+![image](https://user-images.githubusercontent.com/59002417/110895296-7845d780-831f-11eb-8e29-1699417743f7.png)
+
  
 
 
@@ -67,9 +75,12 @@ mu-slip curve:
 
 
 Wet Runway Characteristics:
+![image](https://user-images.githubusercontent.com/59002417/110895310-8136a900-831f-11eb-8ad5-66603f23bc80.png)
+
  
 Dry runway Characteristics:
- 
+ ![image](https://user-images.githubusercontent.com/59002417/110895324-885db700-831f-11eb-981f-7a953e270ce5.png)
+
 
 
 Inference:  
