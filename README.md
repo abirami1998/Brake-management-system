@@ -84,31 +84,41 @@ Dry runway Characteristics:
 
 
 Inference:  
+
 From the above plots we infer that the stopping distance and the time taken for the aircraft to stop is majorly dependent on the physical condition of the runway.
 Wet runway:
 Relative slip=0.2
+
 Stopping distance	390.5m
+
 Stopping time	10.37s
 
 Relative slip=0.6
+
 Stopping distance	403.8m
+
 Stopping time	10.7s
 
 
 
 Dry runway:
 Relative slip=0.2
+
 Stopping distance	227m
+
 Stopping time	6.64s
 
 Relative slip=0.6
+
 Stopping distance	237m
+
 Stopping time	6.64s
 
 
 
 
 Conclusion: 
+
 From this it is concluded that for an aircraft to operate effectively, an efficient braking system is of utmost vitality. The combined effect of hydraulic brakes, spoilers and drag contribute to the effectiveness of the braking system.
 It is observed that to obtain optimal stopping distance ( <700 m) the nature of the runway which the aircraft uses decides the amount friction acting on the wheels thereby directly affecting the stopping distance and the stopping time.
 The above model can be deployed in ranges with short runways like in aircraft carriers.  The scope of this model can be further extended to accommodate  pneumatic brakes to avoid fluid losses prevalent in hydraulic models.
